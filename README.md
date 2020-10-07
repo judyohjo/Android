@@ -1,4 +1,4 @@
-# Android 
+# Android (Theory?)
   - View
   - View Group
   - Widget
@@ -9,5 +9,7 @@
       - TableLayout
       - FrameLayout
       - GridLayout
+      
+
       
 
