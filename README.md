@@ -1,4 +1,4 @@
-# Android (Theory?)
+# Android - Theory
   - View
   - View Group
   - Widget
