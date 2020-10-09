@@ -13,6 +13,7 @@
 # Android - Widget
   - TextView
   - Button
+  - EditText
 
       
 
