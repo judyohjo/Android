@@ -14,6 +14,9 @@
   - TextView
   - Button
   - EditText
+  - ImageView
+  - Spinner
+  
 
       
 
