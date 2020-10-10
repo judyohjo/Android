@@ -16,7 +16,8 @@
   - EditText
   - ImageView
   - Spinner
-  
+  - GridView
+  - ListView
 
       
 
