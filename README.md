@@ -12,6 +12,10 @@
       
 # Android - Widget
   - TextView
+      - android:text
+      - android:textStyle
+      - android:maxLines
+      - bold|Italic
   - Button
   - EditText
       - android:hint
