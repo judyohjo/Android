@@ -14,6 +14,8 @@
   - TextView
   - Button
   - EditText
+      - android:hint
+      - android:inputType
   - ImageView
   - Spinner
   - GridView
