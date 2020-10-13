@@ -17,11 +17,13 @@
       - android:maxLines
       - bold|Italic
   - Button
+      - android:autoLink = "all"
   - EditText
       - android:hint
       - android:inputType
   - ImageView
   - Spinner
+      - Similar to checkbox
   - GridView
   - ListView
 
