@@ -25,6 +25,7 @@
   - Spinner
       - Similar to checkbox
   - GridView
+      - android:numColumns="4"
   - ListView
 
       
