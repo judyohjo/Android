@@ -18,12 +18,15 @@
   - TextView
       - android:text
       - android:textStyle
+          - font style
       - android:maxLines
+          - maximum lines
       - bold|Italic
   - Button
       - android:autoLink = "all"
   - EditText
       - android:hint
+          - description/explanation
       - android:inputType
   - ImageView
   - Spinner
