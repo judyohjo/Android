@@ -37,6 +37,3 @@
   - ProgressBar
   - SeekBar
   - RatingBar
-
-      
-
