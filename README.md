@@ -34,6 +34,9 @@
   - GridView
       - android:numColumns="4"
   - ListView
+  - ProgressBar
+  - SeekBar
+  - RatingBar
 
       
 
