@@ -1,5 +1,7 @@
-# Summary note
+# Summary note content
   - Android - General
+  - Android - Introduction
+  - Android - Widget
   
 # Android - General 
   - Open Source
