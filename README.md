@@ -1,3 +1,6 @@
+# Summary note
+  - Android - General
+  
 # Android - General 
   - Open Source
   - Android Studio
