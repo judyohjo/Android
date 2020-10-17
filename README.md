@@ -2,6 +2,8 @@
   - Android - General
   - Android - Introduction
   - Android - Widget
+  - Android - Layout
+  - Android - Dialog
   
 # Android - General 
   - Open Source
