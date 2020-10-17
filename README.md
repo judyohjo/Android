@@ -42,3 +42,7 @@
   - ProgressBar
   - SeekBar
   - RatingBar
+  
+  # Android - Layout
+  
+  # Android - Dialog
