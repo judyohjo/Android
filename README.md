@@ -48,3 +48,6 @@
   # Android - Layout
   
   # Android - Dialog
+  Types:
+   - Model dialog
+   - Modeless dialog
