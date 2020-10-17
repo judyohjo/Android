@@ -46,6 +46,7 @@
   - RatingBar
   
   # Android - Layout
+  - Inflation
   
   # Android - Dialog
   Types:
