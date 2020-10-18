@@ -51,4 +51,5 @@
   # Android - Dialog
   Types:
    - Model dialog
+      - Alert Dialog
    - Modeless dialog
