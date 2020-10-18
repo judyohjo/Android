@@ -51,5 +51,6 @@
   # Android - Dialog
   Types:
    - Model dialog
-      - Alert Dialog
+      - AlertDialog
+          - includes maximum of 3 buttons
    - Modeless dialog
