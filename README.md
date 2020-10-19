@@ -53,4 +53,5 @@
    - Model dialog
       - AlertDialog
           - includes maximum of 3 buttons
+          - AlertDialog.Builder
    - Modeless dialog
