@@ -54,4 +54,8 @@
       - AlertDialog
           - includes maximum of 3 buttons
           - AlertDialog.Builder
+          - Types
+              - PositiveButton
+              - NegativeButton
+              - NeutralButton
    - Modeless dialog
