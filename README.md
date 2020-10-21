@@ -57,7 +57,8 @@
    - Model dialog
       - AlertDialog
           - includes maximum of 3 buttons
-          - AlertDialog.Builder
+          - AlertDialog.Builder 
+            - AlertDialog.Builder dialog = new AlertDialog.Builder(context.MainActivity);
           - Types
               - PositiveButton
               - NegativeButton
