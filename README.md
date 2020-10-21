@@ -48,6 +48,7 @@
   
   # Android - Layout
   - Inflation
+  - One activity is made via two files (.xml file and .java file)
   
   # Android - Event 
   - Listener = interface
