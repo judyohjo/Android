@@ -8,7 +8,7 @@
   
 # Android - General 
   - Open Source
-  - can use Android Studio
+  - can use Android Studio program
 
 # Android - Introduction
   - View
