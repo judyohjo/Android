@@ -1,12 +1,12 @@
 # Summary note content
-  - Android - General
+  - General information on Android
   - Android - Introduction
   - Android - Widget
   - Android - Layout
   - Android - Event
   - Android - Dialog
   
-# Android - General information
+# General information on Android
   - Open Source
   - Android Studio 
 
