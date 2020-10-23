@@ -6,9 +6,9 @@
   - Android - Event
   - Android - Dialog
   
-# Android - General 
+# Android - General information
   - Open Source
-  - can use Android Studio program
+  - Android Studio 
 
 # Android - Introduction
   - View
