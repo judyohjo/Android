@@ -5,6 +5,7 @@
   - Android - Layout
   - Android - Event
   - Android - Dialog
+  - Canvas and Paint in Android
   
 # General information on Android
   - Open Source
