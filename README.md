@@ -68,5 +68,5 @@
    - Modeless dialog
    
    # Canvas and Paint in Android
-   - To do with drawing and shapes etc
+   - To do with drawing and shapes
    
