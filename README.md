@@ -6,6 +6,7 @@
   - Android - Event
   - Android - Dialog
   - Canvas and Paint in Android
+  - SurfaceView
   
 # General information on Android
   - Open Source
