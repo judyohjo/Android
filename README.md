@@ -71,5 +71,5 @@
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
    
-   # SurfaceView
+   # Android - SurfaceView
    
