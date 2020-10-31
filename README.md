@@ -68,9 +68,9 @@
               - NeutralButton
    - Modeless dialog
    
+   # Android - SurfaceView
+   - SurfaceView and SurfaceHolder
+   
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
    
-   # Android - SurfaceView
-   - SurfaceView and SurfaceHolder
-   - 
