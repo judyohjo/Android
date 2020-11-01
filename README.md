@@ -7,6 +7,7 @@
   - Android - Dialog
   - Android - SurfaceView
   - Canvas and Paint in Android
+  - Android - AsyncTask
   
 # General information on Android
   - Open Source
