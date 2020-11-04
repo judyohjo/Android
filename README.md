@@ -7,8 +7,8 @@
   - Android - Dialog
   - Android - SurfaceView
   - Android - AsyncTask
-  - Canvas and Paint in Android
   - Android - onScrollStateChanged
+  - Canvas and Paint in Android
   
 # General information on Android
   - Open Source
