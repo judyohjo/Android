@@ -75,9 +75,9 @@
    
    # Android - AsyncTask
    
+   # Android - onScrollStateChanged
+   
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
-   
-   # Android - onScrollStateChanged
    
    
