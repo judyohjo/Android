@@ -74,6 +74,8 @@
    - SurfaceView and SurfaceHolder
    
    # Android - AsyncTask
+    - Params
+    - Progress
    
    # Android - onScrollStateChanged
    
