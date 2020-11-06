@@ -79,7 +79,7 @@
     - Result
     
    # Android - onScrollStateChanged
-   
+    1. SCROLL_STATE_FLING(2)
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
    
