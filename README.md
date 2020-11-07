@@ -83,9 +83,10 @@
     2. SCROLL_STATE_IDLE(0)
     3. SCROLL_STATE_TOUCH_SCROLL(1)
     
+   # onScroll
+    
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
    
-   # onScroll
    
    
