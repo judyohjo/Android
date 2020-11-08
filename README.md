@@ -9,6 +9,7 @@
   - Android - AsyncTask
   - Android - onScrollStateChanged
   - Canvas and Paint in Android
+  - onScroll
   
 # General information on Android
   - Open Source
