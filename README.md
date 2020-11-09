@@ -85,6 +85,8 @@
     3. SCROLL_STATE_TOUCH_SCROLL(1)
     
    # onScroll
+   - int i - firstVisibleItem
+   
     
    # Canvas and Paint in Android
    - To do with drawing and shapes and etc
