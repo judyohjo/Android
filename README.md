@@ -87,7 +87,7 @@
    # onScroll
    - int i - firstVisibleItem
    - int i1 - visibleItemCount
-   - int i2 - 
+   - int i2 - totalItemCount
    
     
    # Canvas and Paint in Android
