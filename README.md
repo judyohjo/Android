@@ -84,7 +84,7 @@
     2. SCROLL_STATE_IDLE(0)
     3. SCROLL_STATE_TOUCH_SCROLL(1)
     
-   # onScroll
+   # Android - onScroll
    - int i - firstVisibleItem
    - int i1 - visibleItemCount
    - int i2 - totalItemCount
