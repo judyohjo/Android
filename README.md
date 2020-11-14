@@ -1,4 +1,4 @@
-# Android summary content
+# Android content
   - General information on Android
   - Android - Introduction
   - Android - Widget
